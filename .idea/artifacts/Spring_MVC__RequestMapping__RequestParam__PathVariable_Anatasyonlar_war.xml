@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Spring-MVC-@RequestMapping-@RequestParam-@PathVariable-Anatasyonlar:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring-MVC-@RequestMapping-@RequestParam-@PathVariable-Anatasyonlar.war">
+      <element id="artifact" artifact-name="Spring-MVC-@RequestMapping-@RequestParam-@PathVariable-Anatasyonlar:war exploded" />
+    </root>
+  </artifact>
+</component>
